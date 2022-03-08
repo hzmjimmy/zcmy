@@ -5,4 +5,4 @@
 欢迎体验！
 
 
-<img src="https://zhuanchen-1301304065.cos.ap-guangzhou.myqcloud.com/imgs/%E8%B5%9A%E6%88%90%E7%BE%8E%E4%B8%9A.jpg" width="200"/>
+<img src="https://zhuanchen-1301304065.cos.ap-guangzhou.myqcloud.com/imgs/zcmy.jpg" width="200" height="200"/>
